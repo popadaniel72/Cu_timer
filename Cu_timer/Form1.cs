@@ -20,6 +20,7 @@ namespace Cu_timer
         private void button1_Click(object sender, EventArgs e)
         {
             t1.Enabled = true;
+
         }
 
         private void t1_Tick(object sender, EventArgs e)
